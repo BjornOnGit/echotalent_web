@@ -9,22 +9,22 @@ const services = [
   {
     icon: <Users className="h-10 w-10" />,
     title: "Talent Management",
-    description: "Comprehensive representation for artists, models, and performers with personalized career guidance.",
+    description: "Comprehensive representation for Djs, Hype men, and performers with personalized career guidance.",
   },
   {
     icon: <Camera className="h-10 w-10" />,
-    title: "Production Services",
-    description: "End-to-end production solutions for photoshoots, commercials, and creative content.",
+    title: "Event Booking & Coordination",
+    description: "",
   },
   {
     icon: <Megaphone className="h-10 w-10" />,
-    title: "PR & Marketing",
+    title: "PR Startegy & Content Creation",
     description: "Strategic public relations and marketing campaigns to elevate your brand and reach.",
   },
   {
     icon: <Award className="h-10 w-10" />,
-    title: "Casting",
-    description: "Expert casting services for finding the perfect talent for your project needs.",
+    title: "Merchandise Management",
+    description: "",
   },
   {
     icon: <Briefcase className="h-10 w-10" />,
@@ -33,7 +33,7 @@ const services = [
   },
   {
     icon: <Palette className="h-10 w-10" />,
-    title: "Creative Direction",
+    title: "Brand Partnerships & Sponsorships",
     description: "Innovative creative direction to bring your vision to life with a distinctive edge.",
   },
 ]

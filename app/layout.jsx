@@ -10,6 +10,9 @@ export const metadata = {
   title: "EchoTalent | Creative Services Agency",
   description:
     "Premier talent management and creative services agency representing exceptional artists, performers, and creatives.",
+  icons: {
+    icon: "/favicon.ico",
+  }
 }
 
 export default function RootLayout({ children }) {

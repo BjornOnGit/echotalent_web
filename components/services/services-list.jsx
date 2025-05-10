@@ -14,19 +14,19 @@ const services = [
   },
   {
     icon: <Camera className="h-10 w-10" />,
-    title: "Production Services",
+    title: "Event Booking & Coordination",
     description: "End-to-end production solutions for photoshoots, commercials, and creative content.",
     color: "from-pink-500 to-rose-500",
   },
   {
     icon: <Megaphone className="h-10 w-10" />,
-    title: "PR & Marketing",
+    title: "PR Startegy & Content Creation",
     description: "Strategic public relations and marketing campaigns to elevate your brand and reach.",
     color: "from-blue-500 to-cyan-500",
   },
   {
     icon: <Award className="h-10 w-10" />,
-    title: "Casting",
+    title: "Merchandise Management",
     description: "Expert casting services for finding the perfect talent for your project needs.",
     color: "from-amber-500 to-yellow-500",
   },
@@ -38,21 +38,9 @@ const services = [
   },
   {
     icon: <Palette className="h-10 w-10" />,
-    title: "Creative Direction",
+    title: "Brand Partnerships & Sponsorships",
     description: "Innovative creative direction to bring your vision to life with a distinctive edge.",
     color: "from-violet-500 to-purple-500",
-  },
-  {
-    icon: <Zap className="h-10 w-10" />,
-    title: "Brand Strategy",
-    description: "Comprehensive brand strategy development to position you for success in the market.",
-    color: "from-red-500 to-orange-500",
-  },
-  {
-    icon: <Globe className="h-10 w-10" />,
-    title: "Digital Presence",
-    description: "Building and enhancing your digital footprint across platforms and media channels.",
-    color: "from-teal-500 to-green-500",
   },
 ]
 

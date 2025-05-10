@@ -26,8 +26,8 @@ export default function AboutSection() {
           >
             <h2 className="text-3xl md:text-4xl font-bold mb-6">About EchoTalent</h2>
             <p className="text-lg mb-6 text-muted-foreground">
-              Founded in 2015, EchoTalent has established itself as a premier talent management and creative services
-              agency, representing exceptional artists, performers, and creatives across the globe.
+              Founded in 2025, EchoTalent has established itself as a premier talent management and creative services
+              agency, representing exceptional Djs, hype men, performers, and creatives across the globe.
             </p>
             <p className="text-lg mb-6 text-muted-foreground">
               Our mission is to amplify creative potential by providing comprehensive representation, strategic
@@ -36,19 +36,19 @@ export default function AboutSection() {
             </p>
             <div className="grid grid-cols-2 gap-6 mt-8">
               <div>
-                <h3 className="text-4xl font-bold text-primary mb-2">200+</h3>
+                <h3 className="text-4xl font-bold text-primary mb-2">10+</h3>
                 <p className="text-muted-foreground">Represented Talents</p>
               </div>
               <div>
-                <h3 className="text-4xl font-bold text-primary mb-2">15+</h3>
+                <h3 className="text-4xl font-bold text-primary mb-2">1+</h3>
                 <p className="text-muted-foreground">Years Experience</p>
               </div>
               <div>
-                <h3 className="text-4xl font-bold text-primary mb-2">500+</h3>
+                <h3 className="text-4xl font-bold text-primary mb-2">10+</h3>
                 <p className="text-muted-foreground">Projects Completed</p>
               </div>
               <div>
-                <h3 className="text-4xl font-bold text-primary mb-2">30+</h3>
+                <h3 className="text-4xl font-bold text-primary mb-2">3+</h3>
                 <p className="text-muted-foreground">Global Partners</p>
               </div>
             </div>
@@ -60,7 +60,7 @@ export default function AboutSection() {
                 <div className="rounded-lg overflow-hidden h-64">
                   <Image
                     src="/placeholder.svg?height=400&width=300"
-                    alt="Creative team at work"
+                    alt="Sunday at Ilashe"
                     width={300}
                     height={400}
                     className="w-full h-full object-cover"
@@ -69,7 +69,7 @@ export default function AboutSection() {
                 <div className="rounded-lg overflow-hidden h-72">
                   <Image
                     src="/placeholder.svg?height=450&width=300"
-                    alt="Fashion photoshoot"
+                    alt="Dope Caesar"
                     width={300}
                     height={450}
                     className="w-full h-full object-cover"
@@ -80,7 +80,7 @@ export default function AboutSection() {
                 <div className="rounded-lg overflow-hidden h-72">
                   <Image
                     src="/placeholder.svg?height=450&width=300"
-                    alt="Model portfolio"
+                    alt="M.I.A"
                     width={300}
                     height={450}
                     className="w-full h-full object-cover"
